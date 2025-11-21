@@ -1,2 +1,2 @@
-# Advanced-Time-Series-Forecasting-Using-Attention-Based-Neural-Networks
-This project builds an advanced time-series forecasting model using attention-based neural networks that highlight key temporal patterns, enhance long-range dependency learning, and improve prediction accuracy across multiple domains using metrics like RMSE, MAPE, and MAE for reliable real-world forecasting accurate forecasting a attention models .
+# Advanced Time Series Forecasting with Attention-based Neural Networks
+This project includes a PyTorch encoder-decoder with attention for multivariate time series.
